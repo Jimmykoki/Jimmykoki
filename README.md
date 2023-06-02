@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Jimmy, A Fullstack web developer who loves building delightful Web project .
+I'm Jimmy, A Fullstack Software Developer who loves building delightful Web project .
 <!--
 **Jimmykoki/Jimmykoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
